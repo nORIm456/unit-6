@@ -11,7 +11,7 @@ color darks = #BC9941;
 void setup() {
   size(800, 800, FX2D);
   rectMode(CENTER);
-  colorMode(HSB);
+  //colorMode(HSB);
   noStroke();
 
   numParticles = 15;

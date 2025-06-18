@@ -15,7 +15,7 @@ class Star {
   }
 
   void show() {
-    fill(255, 255, 255, 50);
+    fill(255, 255,255, 127);
     circle(x, y, size);
   }
 
